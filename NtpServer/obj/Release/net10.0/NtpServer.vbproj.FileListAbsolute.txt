@@ -1,0 +1,11 @@
+E:\Users\NTP\NtpServer\bin\Release\net10.0\NtpServer.deps.json
+E:\Users\NTP\NtpServer\bin\Release\net10.0\NtpServer.dll
+E:\Users\NTP\NtpServer\bin\Release\net10.0\NtpServer.pdb
+E:\Users\NTP\NtpServer\obj\Release\net10.0\NtpServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\NTP\NtpServer\obj\Release\net10.0\NtpServer.AssemblyInfoInputs.cache
+E:\Users\NTP\NtpServer\obj\Release\net10.0\NtpServer.AssemblyInfo.vb
+E:\Users\NTP\NtpServer\obj\Release\net10.0\NtpServer.vbproj.CoreCompileInputs.cache
+E:\Users\NTP\NtpServer\obj\Release\net10.0\NtpServer.dll
+E:\Users\NTP\NtpServer\obj\Release\net10.0\refint\NtpServer.dll
+E:\Users\NTP\NtpServer\obj\Release\net10.0\NtpServer.pdb
+E:\Users\NTP\NtpServer\obj\Release\net10.0\ref\NtpServer.dll
